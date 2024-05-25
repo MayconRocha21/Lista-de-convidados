@@ -25,5 +25,6 @@ Este é um projeto simples de uma aplicação web para gerenciar a lista de conv
  - scripts.js
  - README.md
 
+![Clique aqui para acessar o projeto](https://lista-de-convidados-gray.vercel.app/)
 ![Lista de convidados](image-1.png)
 
