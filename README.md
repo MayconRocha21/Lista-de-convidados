@@ -20,10 +20,10 @@ Este é um projeto simples de uma aplicação web para gerenciar a lista de conv
 
 ## Estrutura do Projeto
 
-/project
-├── index.html
-├── styles.css
-└── scripts.js
+ - index.html
+ - styles.css
+ - scripts.js
+ - README.md
 
 ![Lista de convidados](image-1.png)
 
